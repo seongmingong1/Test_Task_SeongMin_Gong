@@ -1,0 +1,4 @@
+SELECT ID, COUNT(DISTINCT Name) AS unique_names
+FROM A
+WHERE LOWER(Label) LIKE '%bot%'
+GROUP BY ID; 
