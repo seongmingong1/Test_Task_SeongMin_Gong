@@ -19,3 +19,5 @@
 ### **Запуск дашборда**
 ```bash
 python games_market_dash_SeongMin_Gong.py
+```
+![image](https://github.com/user-attachments/assets/b4394bd9-f6eb-4a62-9f2b-a1c92d353345)
